@@ -16,7 +16,7 @@
 * На принтере должен быть включен **LAN-режим** (Settings → Network → LAN Only Mode).
 
 ##  Установка
-1. Клонируйте репозиторий или скачайте скрипты:
-   ```bash
-   git clone https://github.com/ВАШ_ЛОГИН/cc2-bed-mesh-sniffer.git
-   cd cc2-bed-mesh-sniffer
+* 1. Скачайте 2 приложенных скрипта "cc2_bed_mesh_3d" и "cc2_mesh_sniffer"
+* 2. Положите их в одну папк
+* 3. Запустите Терминал Windows из этой папки.
+* 4. Введите первую команду
