@@ -36,7 +36,17 @@
 | 📐 `cc2_bed_mesh_3d.py` | Анализирует дамп, автоматически находит фазу калибровки, отсеивает шум и строит точную карту высот |
 | 🌐 Интерактивная 3D-визуализация | Генерирует HTML-файл с графиком Plotly — можно вращать, зумить и панорамировать прямо в браузере |
 | 💾 Экспорт данных | Сохранение сетки в `.csv` и тепловой карты в `.png` |
+<div align="center">
 
+<a href="https://github.com/user-attachments/assets/8b3d7acd-c96e-4687-9e49-6bff9de20797">
+  <img src="https://github.com/user-attachments/assets/8b3d7acd-c96e-4687-9e49-6bff9de20797" width="45%" alt="3D карта стола">
+</a>
+
+<a href="https://github.com/user-attachments/assets/672589cc-d908-4b9f-91bd-0ef813c75655">
+  <img src="https://github.com/user-attachments/assets/672589cc-d908-4b9f-91bd-0ef813c75655" width="45%" alt="Тепловая карта">
+</a>
+
+</div>
 ---
 
 ## ⚙️ Требования
