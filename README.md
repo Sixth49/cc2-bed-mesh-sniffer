@@ -5,7 +5,6 @@
 
 **Набор инструментов для перехвата MQTT-трафика 3D-принтера Elegoo CC2  
 и построения интерактивной 3D-карты высот стола**
-*Скрипты написаны с помощью бесплатного Claude*
 
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue?logo=python&logoColor=white)](https://www.python.org/)
 [![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)
