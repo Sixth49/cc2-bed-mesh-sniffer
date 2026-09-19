@@ -1,6 +1,7 @@
 <div align="center">
 
 # 🖨️ Elegoo Centauri Carbon 2 — Bed Mesh Sniffer & 3D Visualizer
+# 🖨️ Скрипт для извлечения данных автовыравнивания стола Centauri Carbon 2 и построения 3D-визуализации
 
 **Набор инструментов для перехвата MQTT-трафика 3D-принтера Elegoo CC2  
 и построения интерактивной 3D-карты высот стола**
