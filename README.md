@@ -1,3 +1,4 @@
+   **🌐 Language:** 🇷🇺 Русский | [🇬🇧 English](README.en.md)
 <div align="center">
 
 # 🖨️ Elegoo Centauri Carbon 2 — Bed Mesh Sniffer & 3D Visualizer
